@@ -13,7 +13,6 @@ A simple ATM project written in C++.
 ## Technologies
 
 * C++
-* Object-Oriented Programming basics
 
 ## How to Run
 
